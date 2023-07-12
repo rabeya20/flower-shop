@@ -1,0 +1,240 @@
+/* common styles */
+body {
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+}
+.common-btn {
+    padding: 20px 45px;
+    border-radius: 8px;
+background-color: #E55473;
+border: 0;
+color: white;
+}
+
+/* header related styles */
+.banner {
+    padding-right: 600px;
+    
+}
+.header {
+    padding: 200px;
+    background-image: url('../Flower Asset/pngwing\ 10.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner-title {
+    font-size: 80px;
+    color: black;
+    margin-bottom: 0;
+}
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 30px;
+
+    
+}
+
+
+/* main related styles */
+/* first section related styles */
+.first-head {
+    text-align: center;
+   
+}
+.first-section-description {
+    text-align: center;
+    padding: 0 700px;
+}
+.main-head {
+    display: flex;
+    align-items:center;
+    align-content:space-around;
+    padding-left: 430px;
+    margin-bottom: 30px;
+   
+}
+
+.second-head {
+    
+    border-radius: 300px 300px 0px 0px;
+background-color: rgba(167, 33, 98, 0.15);
+padding: 40px 20px 0;
+
+
+}
+.third-head {
+    border-radius: 300px 300px 0px 0px;
+background-color: rgba(5, 151, 160, 0.15);
+padding: 40px 20px 65px;
+
+}
+.fourth-head {
+    border-radius: 300px 300px 0px 0px;
+background-color: rgba(71, 125, 17, 0.15);
+    padding: 5px 20px 0;
+
+}
+#head {
+    margin-right: 24px;
+}
+.first-section-footer {
+    text-align: center;
+    padding-left: 20px;
+    
+}
+.link {
+    margin:80px 90px 100px ;
+    font-size: 24px;
+    font-weight: bolder;
+    color: black;
+    
+}
+.first-section {
+    margin: 150px 0;
+}
+/* optional related styles */
+
+.optional {
+    border-radius: 8px;
+background-color: rgba(39, 39, 39, 0.05);
+display: flex;
+margin: 0 300px;
+padding: 60px;
+}
+.optional-content {
+    margin: 0 80px;
+    text-align: center;
+}
+#flower-list-pic {
+    height: 100px;
+    width: 150px;
+    
+    border-radius: 30px;
+    
+}
+#flowers-name {
+
+    height: 40px;
+    width: 150px;
+    color: black;
+    font-weight: bolder;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+/* second section related styles */
+.second-section {
+    padding: 200px 700px;
+    background-image: url('../Flower Asset/pngwing\ 8.png');
+    background-position: center right;
+   background-size: auto;
+    background-repeat: no-repeat;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-top: 100px;
+    text-align: center;
+}
+.section-head {
+    margin:0;
+}
+
+.section-title
+{
+    font-size: 40px;
+margin-bottom: 24px;
+}
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 0;
+}
+.off {
+    color: #E55473;
+
+}
+/* third section related styles */
+
+.third-section {
+    text-align: center;
+    margin-top: 100px;
+}
+.instra-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+    padding:  0 600px;
+
+}
+.section-img {
+    
+    margin:48px
+}
+#img {
+    margin-right: 25px;
+}
+/* fourth section related styles */
+.fourth-section {
+   
+    margin: 150px 260px 0;
+    padding: 185px 300px 230px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    
+}
+.section-title2 {
+    
+    font-size: 40px;
+   text-align: center;
+   display: flex;
+   padding-left: 250px;
+   margin-bottom: 0;
+    
+   
+}
+.content {
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+}
+#email {
+    height: 50px;
+    width: 700px;
+    border-radius: 8px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    
+}
+
+/* footer related styles */
+
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 100px 700px 200px;
+    margin-top: 0;
+
+}
+.footer-title {
+    
+font-size: 48px;
+margin-bottom: 0;
+}
+.f {
+    color: #E55473;
+}
+.s {
+    color: white;
+}
+.footer-description {
+    color: white;
+    font-size: 18px;
+
+}
+.down-content {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+}
